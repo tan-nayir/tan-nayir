@@ -28,9 +28,5 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/tan-nayir/count.svg" alt="hit counter" align="center">
-</div>
-
-<div align="center">
 <img src="https://github.com/tan-nayir/tan-nayir/blob/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
